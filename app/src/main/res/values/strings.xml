@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FCBQuiz</string>
+    <string name="question_australia">巴萨10号是梅西</string>
+    <string name="question_oceans">巴萨4号是群主</string>
+    <string name="question_mideast">巴萨6号是蛋酥</string>
+    <string name="question_africa">巴萨于1900年创立</string>
+    <string name="question_americas">库蒂尼奥的老东家是利物浦</string>
+    <string name="question_asia">皮克名字中有伯纳乌</string>
+    <string name="true_button">正确</string>
+    <string name="false_button">错误</string>
+    <string name="correct_toast">答对了！</string>
+    <string name="incorrect_toast">答错了。。。</string>
+    <string name="next_button">下一题</string>
+    <string name="prev_button">上一题</string>
+    <string name="warning_text">你确定要这么做？</string>
+    <string name="show_answer_button">显示答案</string>
+    <string name="cheat_button">偷看答案!</string>
+    <string name="judgment_toast">作弊是错误的行为.</string>
+</resources>
